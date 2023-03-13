@@ -1,1 +1,21 @@
-/* To write css */
+.Nametable,tr,th,td
+{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+.one{
+    background-color: aqua;
+}
+
+.two{
+    background-color: aquamarine;
+}
+
+.three{
+    background-color: antiquewhite;
+}
+
+.four{
+    background-color: beige;
+}
